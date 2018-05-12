@@ -1,5 +1,5 @@
 _repo: Youth-and-Egolatry_8148
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Mencken, H. L. (Henry Louis)
@@ -8,7 +8,7 @@ contributor:
     - Mencken, Henry L.
     - Hatteras, Owen
     birthdate: 1880
-    deathdate: &id001 1956
+    deathdate: 1956
     gutenberg_agent_id: '578'
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
@@ -21,6 +21,9 @@ contributor:
     birthdate: 1889
     gutenberg_agent_id: '4789'
     url: http://www.gutenberg.org/2009/agents/4789
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baroja, Pío
@@ -28,13 +31,15 @@ creator:
     - Baroja, Pio
     - Nessi, Pío Baroja y
     birthdate: 1872
-    deathdate: *id001
+    deathdate: 1956
     gutenberg_agent_id: '2669'
     url: http://www.gutenberg.org/2009/agents/2669
     wikipedia:
     - http://es.wikipedia.org/wiki/Pío_Baroja
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8148#Youth-and-Egolatry
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
